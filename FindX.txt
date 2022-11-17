@@ -1,0 +1,3 @@
+public static double FindX(Double A, Double B){
+        return  Math.sqrt((3*A+1))/B;
+      }
